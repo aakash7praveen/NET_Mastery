@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a2832852\\source\\repos\\DIP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A2A42AE-8BE8-407F-BB68-F9A069D018EA}|..\\DIPTEST\\DIPTEST.csproj|c:\\users\\a2832852\\source\\repos\\diptest\\sendtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|c:\\users\\a2832852\\source\\repos\\dip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|c:\\users\\a2832852\\source\\repos\\dip\\notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|solutionrelative:notificationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|c:\\users\\a2832852\\source\\repos\\dip\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|solutionrelative:emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|c:\\users\\a2832852\\source\\repos\\dip\\inotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C56ACD-B1E8-454F-9A78-DFC42B215B79}|DIP.csproj|solutionrelative:inotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendTests.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\DIPTEST\\SendTests.cs",
+              "RelativeDocumentMoniker": "..\\DIPTEST\\SendTests.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\DIPTEST\\SendTests.cs",
+              "RelativeToolTip": "..\\DIPTEST\\SendTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:22:39.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationManager.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\DIP\\NotificationManager.cs",
+              "RelativeDocumentMoniker": "NotificationManager.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\DIP\\NotificationManager.cs",
+              "RelativeToolTip": "NotificationManager.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:21:38.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\DIP\\EmailService.cs",
+              "RelativeDocumentMoniker": "EmailService.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\DIP\\EmailService.cs",
+              "RelativeToolTip": "EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:18:43.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INotificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\DIP\\INotificationHandler.cs",
+              "RelativeDocumentMoniker": "INotificationHandler.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\DIP\\INotificationHandler.cs",
+              "RelativeToolTip": "INotificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:16:26.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\DIP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\DIP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T18:08:05.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

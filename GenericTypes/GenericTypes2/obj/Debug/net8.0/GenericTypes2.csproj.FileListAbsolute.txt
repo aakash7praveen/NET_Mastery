@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\GenericTypes2\bin\Debug\net8.0\GenericTypes2.exe
+C:\Users\a2832852\source\repos\GenericTypes2\bin\Debug\net8.0\GenericTypes2.deps.json
+C:\Users\a2832852\source\repos\GenericTypes2\bin\Debug\net8.0\GenericTypes2.runtimeconfig.json
+C:\Users\a2832852\source\repos\GenericTypes2\bin\Debug\net8.0\GenericTypes2.dll
+C:\Users\a2832852\source\repos\GenericTypes2\bin\Debug\net8.0\GenericTypes2.pdb
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.dll
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\refint\GenericTypes2.dll
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.pdb
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\GenericTypes2.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\GenericTypes2\obj\Debug\net8.0\ref\GenericTypes2.dll

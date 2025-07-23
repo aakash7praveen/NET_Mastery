@@ -1,0 +1,17 @@
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\ISP.exe
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\ISP.deps.json
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\ISP.runtimeconfig.json
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\ISP.dll
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\ISP.pdb
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.dll
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\refint\ISP.dll
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.pdb
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ref\ISP.dll
+C:\Users\a2832852\source\repos\ISP\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.csproj.AssemblyReference.cache
+C:\Users\a2832852\source\repos\ISP\obj\Debug\net8.0\ISP.csproj.Up2Date

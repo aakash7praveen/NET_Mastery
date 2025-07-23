@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|c:\\users\\a2832852\\source\\repos\\reflection5\\attributereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|solutionrelative:attributereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|c:\\users\\a2832852\\source\\repos\\reflection5\\displaylabelmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|solutionrelative:displaylabelmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|c:\\users\\a2832852\\source\\repos\\reflection5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|c:\\users\\a2832852\\source\\repos\\reflection5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B70DD9-80C5-4D9A-ACEB-0AF63136411F}|Reflection5.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttributeReader.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\AttributeReader.cs",
+              "RelativeDocumentMoniker": "AttributeReader.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\AttributeReader.cs",
+              "RelativeToolTip": "AttributeReader.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:10:54.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:06:27.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DisplayLabelMethod.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\DisplayLabelMethod.cs",
+              "RelativeDocumentMoniker": "DisplayLabelMethod.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\DisplayLabelMethod.cs",
+              "RelativeToolTip": "DisplayLabelMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:05:46.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\Reflection5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T06:04:41.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

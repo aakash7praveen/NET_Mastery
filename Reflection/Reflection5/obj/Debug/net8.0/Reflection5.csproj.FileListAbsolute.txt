@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\Reflection5\bin\Debug\net8.0\Reflection5.exe
+C:\Users\a2832852\source\repos\Reflection5\bin\Debug\net8.0\Reflection5.deps.json
+C:\Users\a2832852\source\repos\Reflection5\bin\Debug\net8.0\Reflection5.runtimeconfig.json
+C:\Users\a2832852\source\repos\Reflection5\bin\Debug\net8.0\Reflection5.dll
+C:\Users\a2832852\source\repos\Reflection5\bin\Debug\net8.0\Reflection5.pdb
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.dll
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\refint\Reflection5.dll
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.pdb
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\Reflection5.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\Reflection5\obj\Debug\net8.0\ref\Reflection5.dll

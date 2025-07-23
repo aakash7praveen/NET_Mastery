@@ -1,0 +1,6 @@
+@LifecycleInjection_HostAddress = http://localhost:5071
+
+GET {{LifecycleInjection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

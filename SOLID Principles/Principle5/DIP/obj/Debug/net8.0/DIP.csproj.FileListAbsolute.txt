@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\DIP\bin\Debug\net8.0\DIP.exe
+C:\Users\a2832852\source\repos\DIP\bin\Debug\net8.0\DIP.deps.json
+C:\Users\a2832852\source\repos\DIP\bin\Debug\net8.0\DIP.runtimeconfig.json
+C:\Users\a2832852\source\repos\DIP\bin\Debug\net8.0\DIP.dll
+C:\Users\a2832852\source\repos\DIP\bin\Debug\net8.0\DIP.pdb
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.dll
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\refint\DIP.dll
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.pdb
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\DIP.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\DIP\obj\Debug\net8.0\ref\DIP.dll

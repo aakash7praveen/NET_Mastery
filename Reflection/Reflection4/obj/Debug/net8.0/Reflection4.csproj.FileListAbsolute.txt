@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\Reflection4\bin\Debug\net8.0\Reflection4.exe
+C:\Users\a2832852\source\repos\Reflection4\bin\Debug\net8.0\Reflection4.deps.json
+C:\Users\a2832852\source\repos\Reflection4\bin\Debug\net8.0\Reflection4.runtimeconfig.json
+C:\Users\a2832852\source\repos\Reflection4\bin\Debug\net8.0\Reflection4.dll
+C:\Users\a2832852\source\repos\Reflection4\bin\Debug\net8.0\Reflection4.pdb
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.dll
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\refint\Reflection4.dll
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.pdb
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\Reflection4.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\Reflection4\obj\Debug\net8.0\ref\Reflection4.dll

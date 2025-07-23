@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP", "SRP.csproj", "{7FBE5075-6E7C-4B9E-98FA-20E0ECFFCEE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRPTEST", "..\SRPTEST\SRPTEST.csproj", "{6075FDF3-FC53-403F-8A81-4DA23CBC2C6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FBE5075-6E7C-4B9E-98FA-20E0ECFFCEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBE5075-6E7C-4B9E-98FA-20E0ECFFCEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBE5075-6E7C-4B9E-98FA-20E0ECFFCEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBE5075-6E7C-4B9E-98FA-20E0ECFFCEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6075FDF3-FC53-403F-8A81-4DA23CBC2C6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6075FDF3-FC53-403F-8A81-4DA23CBC2C6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6075FDF3-FC53-403F-8A81-4DA23CBC2C6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6075FDF3-FC53-403F-8A81-4DA23CBC2C6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {519DC1D5-3085-4062-B962-AC946D77370B}
+	EndGlobalSection
+EndGlobal

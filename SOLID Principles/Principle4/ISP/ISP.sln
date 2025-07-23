@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP.csproj", "{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISPTEST", "..\ISPTEST\ISPTEST.csproj", "{24E1652C-66EE-4815-BB7E-68D226479623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E1652C-66EE-4815-BB7E-68D226479623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E1652C-66EE-4815-BB7E-68D226479623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E1652C-66EE-4815-BB7E-68D226479623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E1652C-66EE-4815-BB7E-68D226479623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B478C1-48ED-4743-A566-7DAB60670828}
+	EndGlobalSection
+EndGlobal

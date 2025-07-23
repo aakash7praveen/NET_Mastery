@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes\bin\Debug\net8.0\GenericTypes1.exe
+C:\Users\a2832852\source\repos\GenericTypes\bin\Debug\net8.0\GenericTypes1.deps.json
+C:\Users\a2832852\source\repos\GenericTypes\bin\Debug\net8.0\GenericTypes1.runtimeconfig.json
+C:\Users\a2832852\source\repos\GenericTypes\bin\Debug\net8.0\GenericTypes1.dll
+C:\Users\a2832852\source\repos\GenericTypes\bin\Debug\net8.0\GenericTypes1.pdb
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.dll
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\refint\GenericTypes1.dll
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.pdb
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\GenericTypes1.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\GenericTypes\obj\Debug\net8.0\ref\GenericTypes1.dll

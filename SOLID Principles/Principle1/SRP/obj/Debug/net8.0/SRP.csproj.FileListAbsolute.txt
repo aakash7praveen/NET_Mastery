@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\SRP\bin\Debug\net8.0\SRP.exe
+C:\Users\a2832852\source\repos\SRP\bin\Debug\net8.0\SRP.deps.json
+C:\Users\a2832852\source\repos\SRP\bin\Debug\net8.0\SRP.runtimeconfig.json
+C:\Users\a2832852\source\repos\SRP\bin\Debug\net8.0\SRP.dll
+C:\Users\a2832852\source\repos\SRP\bin\Debug\net8.0\SRP.pdb
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.dll
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\refint\SRP.dll
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.pdb
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\SRP.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\SRP\obj\Debug\net8.0\ref\SRP.dll

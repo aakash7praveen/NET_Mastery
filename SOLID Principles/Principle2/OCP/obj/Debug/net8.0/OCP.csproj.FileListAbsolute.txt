@@ -1,0 +1,17 @@
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\OCP.exe
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\OCP.deps.json
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\OCP.dll
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\OCP.pdb
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.dll
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\refint\OCP.dll
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.pdb
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\ref\OCP.dll
+C:\Users\a2832852\source\repos\OCP\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.csproj.AssemblyReference.cache
+C:\Users\a2832852\source\repos\OCP\obj\Debug\net8.0\OCP.csproj.Up2Date

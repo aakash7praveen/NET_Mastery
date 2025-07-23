@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a2832852\\source\\repos\\ISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24E1652C-66EE-4815-BB7E-68D226479623}|..\\ISPTEST\\ISPTEST.csproj|c:\\users\\a2832852\\source\\repos\\isptest\\oldprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E1652C-66EE-4815-BB7E-68D226479623}|..\\ISPTEST\\ISPTEST.csproj|c:\\users\\a2832852\\source\\repos\\isptest\\modernprintertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|c:\\users\\a2832852\\source\\repos\\isp\\modernprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|solutionrelative:modernprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|c:\\users\\a2832852\\source\\repos\\isp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|c:\\users\\a2832852\\source\\repos\\isp\\interfacesegregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|solutionrelative:interfacesegregation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|c:\\users\\a2832852\\source\\repos\\isp\\oldprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A402F7C-BF2C-4651-AD05-5E45CD338FEB}|ISP.csproj|solutionrelative:oldprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24E1652C-66EE-4815-BB7E-68D226479623}|..\\ISPTEST\\ISPTEST.csproj|c:\\users\\a2832852\\source\\repos\\isptest\\isptest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModernPrinterTests.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\ModernPrinterTests.cs",
+              "RelativeDocumentMoniker": "..\\ISPTEST\\ModernPrinterTests.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\ModernPrinterTests.cs",
+              "RelativeToolTip": "..\\ISPTEST\\ModernPrinterTests.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:32:59.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OldPrinterTests.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\OldPrinterTests.cs",
+              "RelativeDocumentMoniker": "..\\ISPTEST\\OldPrinterTests.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\OldPrinterTests.cs",
+              "RelativeToolTip": "..\\ISPTEST\\OldPrinterTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T05:28:07.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterfaceSegregation.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISP\\InterfaceSegregation.cs",
+              "RelativeDocumentMoniker": "InterfaceSegregation.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISP\\InterfaceSegregation.cs",
+              "RelativeToolTip": "InterfaceSegregation.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:53:13.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModernPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISP\\ModernPrinter.cs",
+              "RelativeDocumentMoniker": "ModernPrinter.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISP\\ModernPrinter.cs",
+              "RelativeToolTip": "ModernPrinter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:57:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OldPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISP\\OldPrinter.cs",
+              "RelativeDocumentMoniker": "OldPrinter.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISP\\OldPrinter.cs",
+              "RelativeToolTip": "OldPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:55:10.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISP\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:49:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISPTEST.csproj",
+              "DocumentMoniker": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\ISPTEST.csproj",
+              "RelativeDocumentMoniker": "..\\ISPTEST\\ISPTEST.csproj",
+              "ToolTip": "C:\\Users\\a2832852\\source\\repos\\ISPTEST\\ISPTEST.csproj",
+              "RelativeToolTip": "..\\ISPTEST\\ISPTEST.csproj",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-19T05:31:28.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

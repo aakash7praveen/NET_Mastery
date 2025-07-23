@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+a3Q9yeudU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a2832852\\source\\repos\\OCP\\OCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a2832852\\.nuget\\packages\\fluentassertions\\8.5.0\\fluentassertions.8.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

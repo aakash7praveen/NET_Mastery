@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\Reflection6\bin\Debug\net8.0\Reflection6.exe
+C:\Users\a2832852\source\repos\Reflection6\bin\Debug\net8.0\Reflection6.deps.json
+C:\Users\a2832852\source\repos\Reflection6\bin\Debug\net8.0\Reflection6.runtimeconfig.json
+C:\Users\a2832852\source\repos\Reflection6\bin\Debug\net8.0\Reflection6.dll
+C:\Users\a2832852\source\repos\Reflection6\bin\Debug\net8.0\Reflection6.pdb
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.dll
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\refint\Reflection6.dll
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.pdb
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\Reflection6.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\Reflection6\obj\Debug\net8.0\ref\Reflection6.dll

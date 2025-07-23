@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\Reflection1\bin\Debug\net8.0\Reflection1.exe
+C:\Users\a2832852\source\repos\Reflection1\bin\Debug\net8.0\Reflection1.deps.json
+C:\Users\a2832852\source\repos\Reflection1\bin\Debug\net8.0\Reflection1.runtimeconfig.json
+C:\Users\a2832852\source\repos\Reflection1\bin\Debug\net8.0\Reflection1.dll
+C:\Users\a2832852\source\repos\Reflection1\bin\Debug\net8.0\Reflection1.pdb
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.dll
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\refint\Reflection1.dll
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.pdb
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\Reflection1.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\Reflection1\obj\Debug\net8.0\ref\Reflection1.dll

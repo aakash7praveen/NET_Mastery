@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\GenericTypes3\bin\Debug\net8.0\GenericTypes3.exe
+C:\Users\a2832852\source\repos\GenericTypes3\bin\Debug\net8.0\GenericTypes3.deps.json
+C:\Users\a2832852\source\repos\GenericTypes3\bin\Debug\net8.0\GenericTypes3.runtimeconfig.json
+C:\Users\a2832852\source\repos\GenericTypes3\bin\Debug\net8.0\GenericTypes3.dll
+C:\Users\a2832852\source\repos\GenericTypes3\bin\Debug\net8.0\GenericTypes3.pdb
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.dll
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\refint\GenericTypes3.dll
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.pdb
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\GenericTypes3.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\GenericTypes3\obj\Debug\net8.0\ref\GenericTypes3.dll

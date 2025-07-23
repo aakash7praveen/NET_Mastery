@@ -1,0 +1,14 @@
+C:\Users\a2832852\source\repos\AyncProgramming\bin\Debug\net8.0\AyncProgramming.exe
+C:\Users\a2832852\source\repos\AyncProgramming\bin\Debug\net8.0\AyncProgramming.deps.json
+C:\Users\a2832852\source\repos\AyncProgramming\bin\Debug\net8.0\AyncProgramming.runtimeconfig.json
+C:\Users\a2832852\source\repos\AyncProgramming\bin\Debug\net8.0\AyncProgramming.dll
+C:\Users\a2832852\source\repos\AyncProgramming\bin\Debug\net8.0\AyncProgramming.pdb
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.AssemblyInfoInputs.cache
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.AssemblyInfo.cs
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.csproj.CoreCompileInputs.cache
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.dll
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\refint\AyncProgramming.dll
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.pdb
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\AyncProgramming.genruntimeconfig.cache
+C:\Users\a2832852\source\repos\AyncProgramming\obj\Debug\net8.0\ref\AyncProgramming.dll

@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "GuidTestController",
+    "Method": "GetGuids",
+    "RelativePath": "api/GuidTest/guids",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
